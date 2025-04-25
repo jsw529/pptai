@@ -1,0 +1,4 @@
+streamlit
+google-cloud-texttospeech
+python-pptx
+moviepy
